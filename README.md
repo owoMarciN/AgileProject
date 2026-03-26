@@ -8,7 +8,7 @@ The project integrates data-driven predictive modeling with interpretable fuzzy 
 ---
 
 ## Repository Structure
-
+```
 ├── Notebook/
 │   └── SmartStreetLighting.ipynb   # Core implementation: regression, fuzzy logic, and optimization.
 ├── ResearchPaper/
@@ -21,7 +21,7 @@ The project integrates data-driven predictive modeling with interpretable fuzzy 
 ├── GECCO-StudentWorkshop2025.pdf   # Award-winning workshop submission (GECCO 2025) used as a guidline.
 ├── LICENSE                         # MIT License documentation.
 └── README.md                       # Project documentation.
-
+```
 ---
 
 ## Technical Methodology
