@@ -1,7 +1,7 @@
 # AgileProject: Hybrid AI Framework for Adaptive Urban Street Lighting
 
 **Agile Methodologies Course**:
-AGH University of Science and Technology, Kraków, Poland
+AGH University of Science and Technology, Krakow, Poland
 
 **Authors**:
 Michał Mazurek
