@@ -1,5 +1,16 @@
 # AgileProject: Hybrid AI Framework for Adaptive Urban Street Lighting
 
+**Agile Methodologies Course**
+AGH University of Science and Technology, Kraków, Poland
+
+**Authors**
+Michał Mazurek
+Marcin Basisty
+Łukasz Święch
+Byeongjun Min
+
+---
+
 ## Project Overview
 Urban street lighting is a critical pillar of public safety and infrastructure. However, static systems often result in excessive energy consumption and high operational costs. This repository presents a Hybrid Artificial Intelligence framework designed to transform conventional lighting into a context-aware, energy-efficient, and safety-critical system.
 
