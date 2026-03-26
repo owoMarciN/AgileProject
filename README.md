@@ -3,12 +3,6 @@
 **Agile Methodologies Course**:
 AGH University of Science and Technology, Krakow, Poland
 
-**Authors**:
-Michał Mazurek,
-Marcin Basisty,
-Łukasz Święch,
-Byeongjun Min
-
 ---
 
 ## Project Overview
